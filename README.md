@@ -1,5 +1,5 @@
 Cenário:
-A Unialfa, com o isolamento social, pretende renovar seu sistema de Trabalho de
+Uma Universidade, com o isolamento social, pretende renovar seu sistema de Trabalho de
 Conclusão de Curso, para isso ela precisa que seja desenvolvido uma aplicação com as seguintes
 características:
 - O sistema deverá ser acessado por login e senha;
